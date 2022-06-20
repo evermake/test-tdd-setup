@@ -1,4 +1,4 @@
-from app.opertaions import Sum, Subtract, Multiply, Divide
+from app.opertaions import Divide, Multiply, Subtract, Sum
 
 
 def test_sum():
